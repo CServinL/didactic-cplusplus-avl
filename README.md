@@ -10,7 +10,9 @@ El arbol se considera balanceado cuando tiene un elemento en izquierda y/o en de
 
 Para una mejor explicacion ver:
 
-    El Profe Ariel. (2022, December 30). Árboles binarios en lenguaje C [Cap. 5: Balanceo, Árbol AVL] [Video]. YouTube. https://www.youtube.com/watch?v=6zFL7I0vuzQ
+    El Profe Ariel. (2022, December 30). Árboles binarios en lenguaje C [Cap. 5: Balanceo, Árbol AVL] [Video].
+    
+    YouTube. https://www.youtube.com/watch?v=6zFL7I0vuzQ
 
 Este programa implementa una clase ArbolAVL con metodos para manipularlo y se hace una breve demostracion de las funciones recursivas que recorren el arbol:
 
